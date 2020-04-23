@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M.Web.Crawler", "Microsoft.Crawler\M.Web.Crawler.csproj", "{621E17EC-F72B-4365-810A-C3EC9D54F426}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M.Web.CrawlerTests", "XUnitTestCrawler\M.Web.CrawlerTests.csproj", "{80497FBD-FD49-4896-A8C2-C1F4032F2B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621E17EC-F72B-4365-810A-C3EC9D54F426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621E17EC-F72B-4365-810A-C3EC9D54F426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621E17EC-F72B-4365-810A-C3EC9D54F426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621E17EC-F72B-4365-810A-C3EC9D54F426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80497FBD-FD49-4896-A8C2-C1F4032F2B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80497FBD-FD49-4896-A8C2-C1F4032F2B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80497FBD-FD49-4896-A8C2-C1F4032F2B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80497FBD-FD49-4896-A8C2-C1F4032F2B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D6B6097-2242-4774-A3F7-E37220F6F614}
+	EndGlobalSection
+EndGlobal
