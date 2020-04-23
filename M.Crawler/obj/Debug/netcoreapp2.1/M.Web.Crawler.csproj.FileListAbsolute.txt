@@ -1,0 +1,11 @@
+C:\projects\w.m.Crawler\M.Crawler\bin\Debug\netcoreapp2.1\M.Web.Crawler.deps.json
+C:\projects\w.m.Crawler\M.Crawler\bin\Debug\netcoreapp2.1\M.Web.Crawler.runtimeconfig.json
+C:\projects\w.m.Crawler\M.Crawler\bin\Debug\netcoreapp2.1\M.Web.Crawler.runtimeconfig.dev.json
+C:\projects\w.m.Crawler\M.Crawler\bin\Debug\netcoreapp2.1\M.Web.Crawler.dll
+C:\projects\w.m.Crawler\M.Crawler\bin\Debug\netcoreapp2.1\M.Web.Crawler.pdb
+C:\projects\w.m.Crawler\M.Crawler\obj\Debug\netcoreapp2.1\M.Web.Crawler.csproj.CoreCompileInputs.cache
+C:\projects\w.m.Crawler\M.Crawler\obj\Debug\netcoreapp2.1\M.Web.Crawler.AssemblyInfoInputs.cache
+C:\projects\w.m.Crawler\M.Crawler\obj\Debug\netcoreapp2.1\M.Web.Crawler.AssemblyInfo.cs
+C:\projects\w.m.Crawler\M.Crawler\obj\Debug\netcoreapp2.1\M.Web.Crawler.dll
+C:\projects\w.m.Crawler\M.Crawler\obj\Debug\netcoreapp2.1\M.Web.Crawler.pdb
+C:\projects\w.m.Crawler\M.Crawler\obj\Debug\netcoreapp2.1\M.Web.Crawler.genruntimeconfig.cache
