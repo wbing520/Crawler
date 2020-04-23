@@ -1,6 +1,7 @@
-﻿**Crawler Coding Challenge**
+﻿**Crawler Challenge**
 
 The goal of this challenge is to implement a C# console application that displays the words that are the most used in a portion of a webpage.
+
 ***Requirements***
 
 The code should be written in C# and .Net Core (or .Net Framework).
@@ -12,6 +13,7 @@ Bonus points:
 ***Page to crawl***
 
 https://en.wikipedia.org/wiki/Microsoft
+
 Only words from the section “history” should be accounted for.
 Example of expected result
 
